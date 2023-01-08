@@ -19,3 +19,6 @@ Gene and protein mapping as a beautiful way to find and understand biological se
 
  
  
+![crystal_Bfactor_vs_MD_RMSF](https://user-images.githubusercontent.com/66325392/211211799-e770e30c-2855-4b7e-8be8-1d97b1dbd05a.jpg)
+
+The power of bioinformatics: molecular dynamics simulation see how much this techniqe is good to find real data. It is a comparison between B-factor and MD RMSF. 
