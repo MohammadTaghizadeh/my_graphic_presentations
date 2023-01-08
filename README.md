@@ -9,3 +9,13 @@ I clustered sepal-length data into 5 clusters.
 ![SVM_01_01](https://user-images.githubusercontent.com/66325392/211211476-a802b6fc-5112-46c8-b085-670446a745a6.jpg)
 
 The power of SVM which has been done with R. 
+
+
+
+![P53_protein_map_01](https://user-images.githubusercontent.com/66325392/211211621-5d0e6321-7e04-43b1-8c65-bead64ce350a.jpg)
+
+Gene and protein mapping as a beautiful way to find and understand biological sequences. Another power of R.   
+
+
+ 
+ 
