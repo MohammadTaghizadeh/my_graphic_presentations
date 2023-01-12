@@ -29,3 +29,8 @@ The power of bioinformatics: molecular dynamics simulation see how much this tec
 
 
 The beauty of PCA with R. 
+
+
+![volcano_plot](https://user-images.githubusercontent.com/66325392/211990805-9422c504-0638-4a73-842a-2dc43459c328.jpg)
+
+A volcano plot for golub data with a simple t.test statistical test analysis. 
