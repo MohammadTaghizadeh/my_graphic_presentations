@@ -28,7 +28,7 @@ The power of bioinformatics: molecular dynamics simulation see how much this tec
 ![PCA_01](https://user-images.githubusercontent.com/66325392/211212132-b52bbfa1-2130-4d1d-81f6-46c31c06d138.jpg)
 
 
-The beauty of PCA with R. 
+The beauty of PCA with R. It's for Boston data. 
 
 
 ![volcano_plot](https://user-images.githubusercontent.com/66325392/211990805-9422c504-0638-4a73-842a-2dc43459c328.jpg)
