@@ -44,3 +44,7 @@ Our recent work is a comparative analysis of Leishmania major nucleoside hydrola
 We tried to answer such questions as, what are the differences of the SP types of these enzymes that make them able to have different efficiencies for the same substrates?
 
 ![fig_01_leishmania](https://github.com/MohammadTaghizadeh/my_graphic_presentations/assets/66325392/f3fce2d9-7ff9-4734-9f52-bfb1ded3c1c0)
+
+History of Bioinformatics
+![image](https://github.com/user-attachments/assets/cb760343-a5d9-472a-a35e-f1ddd18f204a)
+
